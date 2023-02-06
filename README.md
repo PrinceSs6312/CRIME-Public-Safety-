@@ -8,4 +8,5 @@ Data Analytics Research Project
 • Crime Against Property has the highest crime rate incidents over other types in the overall crime incident occurrences. The All Other Offenses crime type has the majority of incident reports. Also, the most crime incidents have 1 victim and locations such as Streets and Residences were mostly involved in crime incidents which were the primary factors that influenced the crime rate.
 
 • Libraries: Pandas, Numpy, Matplotlib, Scikit-learn.
+
 • Tools: Python, R, SQL, Microsoft Excel, Jupyter & R Studio.
